@@ -1,0 +1,33 @@
+body{
+	width:80%;
+	margin :auto;
+	
+}
+h3{
+	width : 80%;
+	margin-left : 10%;
+	border-bottom : 1px solid black;
+}
+h1,h2,h3{
+	text-align:center;
+}
+h4{
+	padding-left : 5%;
+	border-bottom: 2px solid black;
+}
+h4 > span{
+	padding-right : 2%;
+}
+article{
+	border: 1px solid black;
+	margin-bottom : 20px;
+	position: relative;
+	background-color:lightgrey;
+}
+p{
+	background-color:white;
+}
+section{
+	padding : 5px;
+	
+}
